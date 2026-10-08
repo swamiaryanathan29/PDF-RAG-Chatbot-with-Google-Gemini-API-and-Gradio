@@ -1,0 +1,6 @@
+/venv/
+/src/__pycache__/
+__pycache__/
+*.py[cod]
+.DS_Store
+config.yaml
